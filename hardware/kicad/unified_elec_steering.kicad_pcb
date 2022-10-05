@@ -296,7 +296,7 @@
       (net 2 "GND") (pinfunction "Pin_2") (pintype "passive") (tstamp 78a4c72f-4160-4d31-beb6-4f1fdf002786))
     (pad "3" thru_hole circle (at 3.500001 0) (size 1.52 1.52) (drill 1.016) (layers *.Cu *.Mask)
       (net 31 "Net-(J5-Pad3)") (pinfunction "Pin_3") (pintype "passive") (tstamp e4fd9be7-6f37-42b1-a39e-21968f82a08d))
-    (model "${KIPRJMOD}/elec_steering.pretty/1722861103.step"
+    (model "${KIPRJMOD}/3dmodels/1722861103.step"
       (offset (xyz 0 0 6))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -360,7 +360,7 @@
       (net 2 "GND") (pinfunction "Pin_2") (pintype "passive") (tstamp d4693997-873c-4785-8136-5933a3b52ab9))
     (pad "3" thru_hole circle (at 3.500001 0) (size 1.52 1.52) (drill 1.016) (layers *.Cu *.Mask)
       (net 33 "Net-(J4-Pad3)") (pinfunction "Pin_3") (pintype "passive") (tstamp 9863da28-ce0b-4927-9236-1f5eb516df8e))
-    (model "${KIPRJMOD}/elec_steering.pretty/1722861103.step"
+    (model "${KIPRJMOD}/3dmodels/1722861103.step"
       (offset (xyz 0 0 6))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -406,8 +406,8 @@
       (net 30 "+7.5V") (pintype "passive") (tstamp 831fb6d9-8e9e-40ff-8a50-7a96b3b3279a))
     (pad "2" thru_hole circle (at 6.731 3.302) (size 2.2352 2.2352) (drill 1.7272) (layers *.Cu *.Mask)
       (net 30 "+7.5V") (pintype "passive") (tstamp 9b345a9b-51dd-4c7a-a7a9-1a77c9b99915))
-    (model "${KIPRJMOD}/elec_steering.pretty/3557-2.stp"
-      (offset (xyz -9 13.9 -7.5))
+    (model "${KIPRJMOD}/3dmodels/3557-2.stp"
+      (offset (xyz -9 14 -6.25))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
@@ -612,7 +612,7 @@
       (net 2 "GND") (pinfunction "Pin_2") (pintype "passive") (tstamp ca8c71e4-bcc6-447d-a2f0-d70f9143da50))
     (pad "3" thru_hole circle (at 3.500001 0) (size 1.52 1.52) (drill 1.016) (layers *.Cu *.Mask)
       (net 34 "Net-(J2-Pad3)") (pinfunction "Pin_3") (pintype "passive") (tstamp f4723d7e-e887-4aad-b4ea-5cdd728e2992))
-    (model "${KIPRJMOD}/elec_steering.pretty/1722861103.step"
+    (model "${KIPRJMOD}/3dmodels/1722861103.step"
       (offset (xyz 0 0 6))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2488,7 +2488,7 @@
       (net 2 "GND") (pinfunction "Pin_2") (pintype "passive") (tstamp 320b422c-6e2c-4356-8069-617e1ab0605c))
     (pad "3" thru_hole circle (at 3.500001 0) (size 1.52 1.52) (drill 1.016) (layers *.Cu *.Mask)
       (net 32 "Net-(F3-Pad1)") (pinfunction "Pin_3") (pintype "passive") (tstamp 92e7040a-0059-4bf7-987d-2f15dccbb855))
-    (model "${KIPRJMOD}/elec_steering.pretty/1722861103.step"
+    (model "${KIPRJMOD}/3dmodels/1722861103.step"
       (offset (xyz 0 0 6))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2534,8 +2534,8 @@
       (net 30 "+7.5V") (pintype "passive") (tstamp 70090ea7-8d21-4726-8744-ace472f1e2c2))
     (pad "2" thru_hole circle (at 6.731 0) (size 2.2352 2.2352) (drill 1.7272) (layers *.Cu *.Mask)
       (net 30 "+7.5V") (pintype "passive") (tstamp 90d00864-d3a1-418c-a496-df63d635e527))
-    (model "${KIPRJMOD}/elec_steering.pretty/3557-2.stp"
-      (offset (xyz -9 13.9 -7.5))
+    (model "${KIPRJMOD}/3dmodels/3557-2.stp"
+      (offset (xyz -9 14 -6.25))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
@@ -2677,8 +2677,8 @@
       (net 30 "+7.5V") (pintype "passive") (tstamp 32115a5f-c893-4916-b72f-f8088a63af9f))
     (pad "2" thru_hole circle (at 6.731 3.302) (size 2.2352 2.2352) (drill 1.7272) (layers *.Cu *.Mask)
       (net 30 "+7.5V") (pintype "passive") (tstamp d6814a40-ed49-4b1b-967d-c1fa32889903))
-    (model "${KIPRJMOD}/elec_steering.pretty/3557-2.stp"
-      (offset (xyz -9 13.9 -7.5))
+    (model "${KIPRJMOD}/3dmodels/3557-2.stp"
+      (offset (xyz -9 14 -6.25))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
@@ -2798,8 +2798,8 @@
       (net 30 "+7.5V") (pintype "passive") (tstamp 41dd3ea6-7c46-42cd-a3ba-7312b414644b))
     (pad "2" thru_hole circle (at 6.731 0) (size 2.2352 2.2352) (drill 1.7272) (layers *.Cu *.Mask)
       (net 30 "+7.5V") (pintype "passive") (tstamp b7d9cb43-312f-4f12-829e-8139c62c5459))
-    (model "${KIPRJMOD}/elec_steering.pretty/3557-2.stp"
-      (offset (xyz -9 13.9 -7.5))
+    (model "${KIPRJMOD}/3dmodels/3557-2.stp"
+      (offset (xyz -9 14 -6.25))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
