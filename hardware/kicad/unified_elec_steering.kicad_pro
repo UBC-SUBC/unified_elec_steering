@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.2,
-          "height": 6.4,
-          "width": 6.4
+          "drill": 0.0,
+          "height": 1.45,
+          "width": 1.0
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -120,8 +120,13 @@
       },
       "track_widths": [
         0.0,
+        0.254,
         0.35,
-        0.508
+        0.508,
+        1.905,
+        2.54,
+        3.196,
+        3.81
       ],
       "via_dimensions": [
         {
@@ -400,7 +405,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "./",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
